@@ -1,6 +1,7 @@
 ##  RFC Re-Flow
 
-![pic1](https://github.com/topranks/rfc_reflow/raw/main/diagram.png)
+![pic1](https://raw.githubusercontent.com/topranks/rfc_reflow/main/image0.jpeg) ![pic2](https://raw.githubusercontent.com/topranks/rfc_reflow/main/image1.jpeg) 
+
 
 I got nerd-sniped doing this by someone asking how to view RFCs on their Kindle.
 
