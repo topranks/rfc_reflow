@@ -7,7 +7,7 @@ I got nerd-sniped doing this by someone asking how to view RFCs on their Kindle.
 
 Trying to convert with Calibre I found the fixed-formatting of the RFCs problematic.  Specifically paragraphs have hard line breaks in the RFCs, both in HTML and TXT form, which make things look ugly as the e-reader can't fit a whole line without breaking it again.  So I made this script to download TXT RFCs and - as best as possible - consolidate paragraphs into a single line in the output file.
 
-Tbh if you set up calibre right it will also format the 
+**After** I made the script I found it was possible to change Calibre to process things to look semi-decent even with the hard line breaks in paragraphs still there.  Scipt may still be useful, or you can skip to the Calibre settings to just get a sense of what works there.
 
 ## Running the script 
 
@@ -26,7 +26,7 @@ With that said for the calibre conversion about the best I've found to use AZW3 
 ```
 Look & Feel:
   Fonts:
-    - embed font family - using a serif, mono font, on my system Nimbus Mono worked well
+    - embed font family - use a mono font, on my system Nimbus Mono worked well
     - embed all fonts in document
 
   Text:
